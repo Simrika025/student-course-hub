@@ -48,3 +48,4 @@ Setup
 ________________________________________
 Author
 Student project for learning web development. (WEBTECH 17
+We have made small changes in database so we have also uploaded a student_course_hub in sql format
